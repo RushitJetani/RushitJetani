@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rushit Jetani</h1>
+<h3 align="center">Detail-oriented Web Developer | Data Enthusiast | AI Explorer</h3>
 
-<!--
-**RushitJetani/RushitJetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://rushit-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-RushitJetani-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jetanirushit6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jetanirushit6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rushitjetani">
+    <img src="https://img.shields.io/badge/LinkedIn-rushitjetani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🎓 I'm a post-grad IT student at Humber College, passionate about building scalable systems and intuitive digital products.
+
+💡 I love solving complex problems through code, whether it's building full-stack applications or training ML models.
+
+🛠️ I specialize in:
+- Full-Stack Web Development (MERN, JSP, REST APIs)
+- Data Science & Machine Learning
+- Database Design & Big Data Analytics
+- Cloud & Data Engineering (AWS, Azure)
+
+---
+
+### 🧠 Technical Stack
+
+**Languages:**  
+JavaScript | Python | Java | C# | SQL | HTML | CSS
+
+**Frameworks & Tools:**  
+Node.js | Express.js | React.js | .NET | FastAPI | JSP | MongoDB | SQL Server | Tableau | Hadoop | Spark | Looker
+
+**ML/AI:**  
+Scikit-learn | Pandas | NumPy | OpenCV | Matplotlib | Seaborn
+
+---
+
+### 🛠 Recent Projects
+
+🔹 **[AirBnB Management System](https://rushit-portfolio.vercel.app/)**  
+REST-based app with session-based login, CRUD listings, MongoDB backend  
+`Node.js | Express.js | EJS | MongoDB`
+
+🔹 **E-Commerce Website (MERN Stack)**  
+Auth, product catalog, secure checkout, dynamic UI  
+`React.js | Node.js | Express.js | MongoDB`
+
+🔹 **Movie Recommender System**  
+Personalized suggestions using collaborative filtering  
+`Python | Scikit-learn | Pandas`
+
+🔹 **Card Detail Extraction System**  
+Computer vision tool to extract text from card images  
+`Python | OpenCV | FastAPI | Gemini Pro Flash`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RushitJetani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushitJetani&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Let's Connect
+
+I'm always open to exciting opportunities, collaborations, or even a tech chat!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rushitjetani) or drop an email at [jetanirushit6@gmail.com](mailto:jetanirushit6@gmail.com).
+
+---
