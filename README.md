@@ -44,29 +44,28 @@ Scikit-learn | Pandas | NumPy | OpenCV | Matplotlib | Seaborn
 
 ### 🛠 Recent Projects
 
-🔹 **[School Management System (Live Demo)](https://school-management-ecru.vercel.app/)**  
-Admin dashboard for managing students, teachers, and attendance with dynamic components and secure routing using Next.js.  
-🔗 [View Code on GitHub](https://github.com/RushitJetani/SchoolManagement)  
+🔹 **[School Management System](https://github.com/RushitJetani/SchoolManagement)**  
+Admin dashboard for managing students, teachers, and attendance with dynamic components and secure routing.  
 `Next.js | TailwindCSS | MongoDB | JWT | React Hook Form`
 
 🔹 **[Cancer Detection Using Deep Learning](https://github.com/RushitJetani/Cancer-Detection)**  
-AI-driven image classification tool for early cancer detection using deep learning and convolutional neural networks (CNNs).  
+AI-driven image classification tool for early cancer detection using convolutional neural networks (CNNs).  
 `Python | Keras | TensorFlow | Deep Learning | Jupyter Notebook`
 
-🔹 **[AirBnB Management System](https://rushit-portfolio.vercel.app/)**  
-REST-based app with session-based login, CRUD listings, MongoDB backend  
+🔹 **[AirBnB Management System](https://github.com/RushitJetani/NodeJS_Project)**  
+REST-based app with session-based login, CRUD listings, and MongoDB backend.  
 `Node.js | Express.js | EJS | MongoDB`
 
-🔹 **E-Commerce Website (MERN Stack)**  
-Auth, product catalog, secure checkout, dynamic UI  
+🔹 **[E-Commerce Website (MERN Stack)](https://github.com/RushitJetani/eCommerceWebsite)**  
+Authentication, product catalog, secure checkout, dynamic UI for an online store.  
 `React.js | Node.js | Express.js | MongoDB`
 
-🔹 **Movie Recommender System**  
-Personalized suggestions using collaborative filtering  
+🔹 **[Movie Recommender System](https://github.com/RushitJetani)**  
+Personalized movie suggestions using collaborative filtering and content-based techniques.  
 `Python | Scikit-learn | Pandas`
 
-🔹 **Card Detail Extraction System**  
-Computer vision tool to extract text from card images  
+🔹 **[Card Detail Extraction System](https://github.com/RushitJetani)**  
+Computer vision tool to extract credit/debit card data from images for automation.  
 `Python | OpenCV | FastAPI | Gemini Pro Flash`
 
 ---
