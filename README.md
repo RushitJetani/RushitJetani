@@ -44,6 +44,15 @@ Scikit-learn | Pandas | NumPy | OpenCV | Matplotlib | Seaborn
 
 ### 🛠 Recent Projects
 
+🔹 **[School Management System (Live Demo)](https://school-management-ecru.vercel.app/)**  
+Admin dashboard for managing students, teachers, and attendance with dynamic components and secure routing using Next.js.  
+🔗 [View Code on GitHub](https://github.com/RushitJetani/SchoolManagement)  
+`Next.js | TailwindCSS | MongoDB | JWT | React Hook Form`
+
+🔹 **[Cancer Detection Using Deep Learning](https://github.com/RushitJetani/Cancer-Detection)**  
+AI-driven image classification tool for early cancer detection using deep learning and convolutional neural networks (CNNs).  
+`Python | Keras | TensorFlow | Deep Learning | Jupyter Notebook`
+
 🔹 **[AirBnB Management System](https://rushit-portfolio.vercel.app/)**  
 REST-based app with session-based login, CRUD listings, MongoDB backend  
 `Node.js | Express.js | EJS | MongoDB`
@@ -59,15 +68,6 @@ Personalized suggestions using collaborative filtering
 🔹 **Card Detail Extraction System**  
 Computer vision tool to extract text from card images  
 `Python | OpenCV | FastAPI | Gemini Pro Flash`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushitJetani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushitJetani&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
